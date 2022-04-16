@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.soumik890.RN_tutorial"
     },
     "web": {
       "favicon": "./assets/favicon.png"
